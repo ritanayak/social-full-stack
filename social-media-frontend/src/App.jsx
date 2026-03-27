@@ -1,9 +1,9 @@
 import './App.css'
 import { Routes, Route, Navigate } from 'react-router-dom'
 
-import Login from './pages/Login'
-import Register from './pages/Register'
-import Feed from './pages/Feed'
+import Login from './pages/LoginPage'
+import Register from './pages/RegisterPage'
+import Feed from './pages/FeedPage'
 
 import Navbar from './components/Navbar'
 
